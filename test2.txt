@@ -1,0 +1,4 @@
+lets learn about git
+cvwadfwvfv
+
+create=add=git commit -m ""=git push
