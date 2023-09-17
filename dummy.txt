@@ -1,1 +1,8 @@
-upgrading
+syntax for git
+add .
+commit -m ""
+status
+push 
+pull
+clone
+
